@@ -6,3 +6,4 @@ psycopg2==2.9.7
 psycopg2-binary==2.9.7
 sqlparse==0.4.4
 tzdata==2023.3
+upgrade-pip==0.1.4
